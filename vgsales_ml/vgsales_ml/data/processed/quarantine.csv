@@ -1,0 +1,421 @@
+raw_row,name,name_note,platform_code,year,reason,global_sales
+179,Madden NFL 2004,,PS2,,missing_year,5.24
+377,FIFA Soccer 2004,,PS2,,missing_year,3.5
+431,LEGO Batman: The Videogame,,Wii,,missing_year,3.17
+470,wwe Smackdown vs. Raw 2006,,PS2,,missing_year,3.0
+607,Space Invaders,,2600,,missing_year,2.53
+624,Rock Band,,X360,,missing_year,2.48
+649,Frogger's Adventures: Temple of the Frog,,GBA,,missing_year,2.4
+652,LEGO Indiana Jones: The Original Adventures,,Wii,,missing_year,2.39
+711,Call of Duty 3,,Wii,,missing_year,2.26
+782,Rock Band,,Wii,,missing_year,2.11
+787,Project Gotham Racing,JP weekly sales,XB,2002.0,partial_region_sales_annotation,2.09
+916,Medal of Honor: European Assault,All Region sales,PS2,2005.0,partial_region_sales_annotation,1.88
+1119,NBA Live 06,All region sales,PS2,2005.0,partial_region_sales_annotation,1.64
+1126,Call of Duty: Black Ops,,PC,,missing_year,1.63
+1133,Rock Band,,PS3,,missing_year,1.62
+1134,Tony Hawk's American Wasteland,Old all region sales,PS2,2005.0,partial_region_sales_annotation,1.63
+1303,Triple Play 99,,PS,,missing_year,1.46
+1330,Tony Hawk's American Wasteland,Weekly american sales,PS2,2005.0,partial_region_sales_annotation,1.45
+1356,NBA Live 06,Weekly american sales,PS2,2005.0,partial_region_sales_annotation,1.42
+1433,LEGO Harry Potter: Years 5-7,,Wii,,missing_year,1.36
+1466,Ratchet & Clank: Up Your Arsenal,Weekly american sales,PS2,2004.0,partial_region_sales_annotation,1.34
+1498,LEGO Batman: The Videogame,,PSP,,missing_year,1.31
+1513,Adventure,,2600,,missing_year,1.3
+1537,Midnight Club 3: DUB Edition,America weekly sales,PS2,2005.0,partial_region_sales_annotation,1.28
+1585,Combat,,2600,,missing_year,1.25
+1608,Tetris 2,All region sales,GB,1992.0,partial_region_sales_annotation,1.24
+1649,NASCAR Thunder 2003,,PS2,,missing_year,1.22
+1665,World Soccer Winning Eleven 9,JP & Others sales,PSP,2005.0,partial_region_sales_annotation,1.2
+1697,Hitman 2: Silent Assassin,,XB,,missing_year,1.19
+1752,Yu-Gi-Oh! The Sacred Cards,American and Others sales,GBA,2002.0,partial_region_sales_annotation,1.16
+1814,Pokémon Mystery Dungeon: Red Rescue Team,US weekly sales,GBA,2005.0,partial_region_sales_annotation,1.13
+1837,Rock Band,,PS2,,missing_year,1.12
+1990,Legacy of Kain: Soul Reaver,,PS,,missing_year,1.05
+2019,Donkey Kong Land III,,GB,,missing_year,1.03
+2067,Winning Eleven: Pro Evolution Soccer 2007,All Region sales,X360,2006.0,partial_region_sales_annotation,1.0
+2086,LEGO Harry Potter: Years 5-7,,X360,,missing_year,0.99
+2113,Air-Sea Battle,,2600,,missing_year,0.98
+2114,Suikoden III,,PS2,,missing_year,0.98
+2134,Yakuza 4,,PS3,,missing_year,0.97
+2145,LEGO Harry Potter: Years 5-7,,PS3,,missing_year,0.97
+2173,Wheel of Fortune,,PS2,,missing_year,0.95
+2286,Namco Museum,,XB,,missing_year,0.92
+2295,Rhythm Heaven,,Wii,,missing_year,0.91
+2415,The Lord of the Rings: War in the North,,PS3,,missing_year,0.86
+2422,The Lord of the Rings: War in the North,,X360,,missing_year,0.86
+2484,Madden NFL 07,,PSP,,missing_year,0.84
+2497,MLB SlugFest 20-03,,PS2,,missing_year,0.84
+2528,Shaun White Snowboarding,,X360,,missing_year,0.82
+2586,PES 2009: Pro Evolution Soccer,,PSP,,missing_year,0.8
+2776,Madden NFL 11,,Wii,,missing_year,0.75
+2786,WarioWare: Twisted!,,GBA,,missing_year,0.74
+2838,LEGO Harry Potter: Years 5-7,,DS,,missing_year,0.72
+2947,Test Drive Unlimited 2,,X360,,missing_year,0.69
+3027,Virtua Tennis: World Tour,US & Others sales,PSP,2005.0,partial_region_sales_annotation,0.66
+3032,Summer Sports: Paradise Island,Others sales,Wii,2008.0,partial_region_sales_annotation,0.67
+3049,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",,GBA,,missing_year,0.67
+3141,Test Drive Unlimited 2,,PS3,,missing_year,0.64
+3194,Monster Hunter 2,,PS2,,missing_year,0.63
+3217,Advance Wars: Days of Ruin,,DS,,missing_year,0.63
+3238,Metal Gear Solid 2: Substance,,XB,,missing_year,0.63
+3346,The Golden Compass,,Wii,,missing_year,0.61
+3421,Madden NFL 06,,X360,,missing_year,0.58
+3468,NASCAR: Dirt to Daytona,,PS2,,missing_year,0.57
+3501,Madden NFL 2002,,XB,,missing_year,0.58
+3635,The Godfather,old US sales,XB,2006.0,partial_region_sales_annotation,0.55
+3655,Secret Agent Clank,US sales,PSP,2008.0,partial_region_sales_annotation,0.55
+3715,Def Jam: Fight for NY,,XB,,missing_year,0.55
+3753,NBA Street Vol. 2,,GC,,missing_year,0.53
+3880,Fishing Derby,,2600,,missing_year,0.52
+3908,International Superstar Soccer 2000,All region sales,N64,1999.0,partial_region_sales_annotation,0.51
+3952,Wet,,X360,,missing_year,0.5
+4093,Yu-Gi-Oh! Forbidden Memories,JP sales,PS,1999.0,partial_region_sales_annotation,0.48
+4119,Harvest Moon DS,US sales,DS,2005.0,partial_region_sales_annotation,0.48
+4145,Sonic the Hedgehog,,PS3,,missing_year,0.48
+4151,Karate,,2600,,missing_year,0.47
+4156,The Godfather,JP sales,PS2,2006.0,partial_region_sales_annotation,0.47
+4199,Tiger Woods PGA Tour 07,,Wii,,missing_year,0.47
+4223,Imagine: Figure Skater,US sales,DS,2007.0,partial_region_sales_annotation,0.47
+4232,Circus Atari,,2600,,missing_year,0.46
+4330,The Chronicles of Riddick: Escape from Butcher Bay,,XB,,missing_year,0.45
+4378,Maze Craze: A Game of Cops 'n Robbers,,2600,,missing_year,0.44
+4380,Silent Hill: Homecoming,,X360,,missing_year,0.45
+4426,The Urbz: Sims in the City,all regions sales,DS,2004.0,partial_region_sales_annotation,0.43
+4428,The Godfather,US sales,XB,2006.0,partial_region_sales_annotation,0.45
+4469,Super Breakout,,2600,,missing_year,0.44
+4472,Robert Ludlum's The Bourne Conspiracy,,X360,,missing_year,0.44
+4536,NHL Slapshot,,Wii,,missing_year,0.42
+4598,SpongeBob's Truth or Square,US sales,DS,2009.0,partial_region_sales_annotation,0.42
+4683,TERA,,PC,,missing_year,0.41
+4756,Yu-Gi-Oh! The Eternal Duelist Soul,JP sales,GBA,2001.0,partial_region_sales_annotation,0.41
+4791,LEGO Harry Potter: Years 5-7,,3DS,,missing_year,0.41
+4797,NFL GameDay 2003,,PS2,,missing_year,0.4
+4806,Warriors Orochi 2,JP sales,PS2,2008.0,partial_region_sales_annotation,0.4
+4841,SpongeBob's Truth or Square,US sales,Wii,2009.0,partial_region_sales_annotation,0.39
+4858,Silent Hill: Homecoming,,PS3,,missing_year,0.39
+4865,Harvest Moon: Save the Homeland,,PS2,,missing_year,0.39
+4903,SpongeBob's Truth or Square,US sales,PSP,2009.0,partial_region_sales_annotation,0.39
+4934,Robert Ludlum's The Bourne Conspiracy,,PS3,,missing_year,0.38
+4974,Jam Sessions: Sing and Play Guitar,US sales,DS,2007.0,partial_region_sales_annotation,0.38
+5061,Hangman,,2600,,missing_year,0.37
+5078,The Golden Compass,,PSP,,missing_year,0.37
+5162,NBA Live 2003,,XB,,missing_year,0.36
+5171,Bejeweled 3,,DS,,missing_year,0.37
+5195,Cubix Robots for Everyone: Clash 'n' Bash,,GBA,,missing_year,0.37
+5196,Tropico 4,,X360,,missing_year,0.36
+5225,Naruto: Ultimate Ninja 3,JP sales,PS2,2005.0,partial_region_sales_annotation,0.36
+5240,Tomb Raider,2013,PC,,missing_year,0.36
+5302,Dragon Ball Z: Budokai Tenkaichi 2,JP sales,Wii,,partial_region_sales_annotation,0.35
+5508,Custom Robo,,N64,,missing_year,0.33
+5555,Samurai Warriors 2: Xtreme Legends,JP sales,PS2,2007.0,partial_region_sales_annotation,0.33
+5617,Naruto: Ultimate Ninja,JP sales,PS2,2003.0,partial_region_sales_annotation,0.32
+5618,Final Fantasy XI,,PS2,,missing_year,0.31
+5625,Singularity,,X360,,missing_year,0.31
+5643,Gold's Gym: Cardio Workout,Others sales,Wii,2008.0,partial_region_sales_annotation,0.32
+5657,Dragster,,2600,,missing_year,0.32
+5669,All-Star Baseball 2005,,PS2,,missing_year,0.32
+5760,Naruto: Ninja Destiny,US sales,DS,2006.0,partial_region_sales_annotation,0.31
+5769,Star Wars Jedi Knight II: Jedi Outcast,,XB,,missing_year,0.31
+5798,Slot Machine,,2600,,missing_year,0.31
+5838,Shrek the Third,,DS,,missing_year,0.3
+5861,The Dukes of Hazzard II: Daisy Dukes It Out,,PS,,missing_year,0.3
+5870,Disgaea 3: Absence of Detention,,PSV,,missing_year,0.3
+5880,Fossil Fighters,JP sales,DS,2008.0,partial_region_sales_annotation,0.3
+5901,NBA Live 2003,,GC,,missing_year,0.3
+5913,Harvest Moon: The Tale of Two Towns,,3DS,,missing_year,0.3
+5933,Harvest Moon DS Cute,US sales,DS,2005.0,partial_region_sales_annotation,0.3
+5957,Imagine: Makeup Artist,,DS,2020.0,release_year_after_platform_sunset,0.29
+6001,Atelier Iris 3: Grand Phantasm,US Sales,PS2,2006.0,partial_region_sales_annotation,0.29
+6042,Nicktoons: Battle for Volcano Island,,GC,,missing_year,0.29
+6061,The Urbz: Sims In the City,US weekly sales,DS,2004.0,partial_region_sales_annotation,0.29
+6125,Haven: Call of the King,,PS2,,missing_year,0.29
+6153,Unreal Championship 2: The Liandri Conflict,,XB,,missing_year,0.28
+6195,"The Chronicles of Narnia: The Lion, The Witch and The Wardrobe",,GC,,missing_year,0.29
+6211,Pac-Man Fever,,GC,,missing_year,0.28
+6272,The Legend of Zelda: The Minish Cap,weekly JP sales,GBA,,partial_region_sales_annotation,0.28
+6283,Indy 500,,2600,,missing_year,0.27
+6314,Gun,,X360,,missing_year,0.27
+6316,Flag Capture,,2600,,missing_year,0.27
+6319,LEGO Harry Potter: Years 5-7,,PSP,,missing_year,0.27
+6330,Yu-Gi-Oh! The Sacred Cards,JP weekly sales,GBA,2002.0,partial_region_sales_annotation,0.27
+6359,Summer Athletics: The Ultimate Challenge,US sales,Wii,2008.0,partial_region_sales_annotation,0.27
+6401,Rock Revolution,,PS3,,missing_year,0.27
+6496,Jonah Lomu Rugby Challenge,,PS3,,missing_year,0.26
+6504,TouchMaster 3,Others sales,DS,2009.0,partial_region_sales_annotation,0.26
+6594,Tomb Raider: Underworld,Others sales,PS2,2009.0,partial_region_sales_annotation,0.25
+6647,College Hoops 2K6,,PS2,,missing_year,0.25
+6659,Dynasty Warriors 6,JP sales,PS2,2008.0,partial_region_sales_annotation,0.25
+6668,SpongeBob's Truth or Square,US sales,X360,2009.0,partial_region_sales_annotation,0.25
+6777,Mega Man X Collection,,PS2,,missing_year,0.24
+6806,BioShock 2,,PC,,missing_year,0.25
+6832,Singularity,,PS3,,missing_year,0.25
+6862,The Godfather,US & Others sales,X360,2006.0,partial_region_sales_annotation,0.24
+6888,Ratchet & Clank: Going Commando,JP weekly sales,PS2,2003.0,partial_region_sales_annotation,0.24
+6908,Scrabble,Others sales,DS,2009.0,partial_region_sales_annotation,0.24
+6919,Danganronpa: Trigger Happy Havoc,,PSP,,missing_year,0.24
+6926,DanceDanceRevolution II,,Wii,,missing_year,0.24
+6937,Tony Hawk's Downhill Jam,,Wii,,missing_year,0.23
+6966,Big Beach Sports 2,,Wii,,missing_year,0.24
+6968,Jet X20,,PS2,,missing_year,0.23
+7035,Tribes: Aerial Assault,,PS2,,missing_year,0.23
+7065,Tetris 2,weekly jp sales,GB,1992.0,partial_region_sales_annotation,0.23
+7125,Digimon World DS,JP sales,DS,2006.0,partial_region_sales_annotation,0.23
+7139,Yu-Gi-Oh! GX: Spirit Caller,American Sales,DS,2006.0,partial_region_sales_annotation,0.23
+7181,Move Fitness,,PS3,,missing_year,0.22
+7213,LEGO Harry Potter: Years 5-7,,PC,,missing_year,0.22
+7225,Chou-Kuukan Night Pro Yakyuu King,higher JP sales,N64,1996.0,partial_region_sales_annotation,0.22
+7236,Dragon Ball: Origins,JP & incomplete US sales,DS,2008.0,partial_region_sales_annotation,0.21
+7282,Yoshi Touch & Go,JP sales,DS,2005.0,partial_region_sales_annotation,0.22
+7296,Summer Athletics: The Ultimate Challenge,Others sales,Wii,2008.0,partial_region_sales_annotation,0.21
+7351,Yu Yu Hakusho: Dark Tournament,,PS2,,missing_year,0.21
+7369,Ghostbusters II,,2600,,missing_year,0.21
+7370,Breakaway IV,,2600,,missing_year,0.21
+7381,Naruto: Clash of Ninja,JP sales,GC,2003.0,partial_region_sales_annotation,0.22
+7382,Robotech: Battlecry,,XB,,missing_year,0.22
+7406,Valkyria Chronicles III: Unrecorded Chronicles,,PSP,,missing_year,0.21
+7423,WRC: FIA World Rally Championship,,PS3,,missing_year,0.21
+7457,Shin Megami Tensei: Persona 3,jp sales,PS2,2006.0,partial_region_sales_annotation,0.21
+7615,Famista 64,,N64,,missing_year,0.2
+7648,Dead Space 3,,PC,,missing_year,0.19
+7720,Test Drive Unlimited 2,,PC,,missing_year,0.19
+7863,Chou-Kuukan Night Pro Yakyuu King,weekly JP sales,N64,1996.0,partial_region_sales_annotation,0.19
+7908,Pet Zombies,,3DS,,missing_year,0.19
+7915,Sudoku Gridmaster,JP sales,DS,2006.0,partial_region_sales_annotation,0.19
+7946,Star Trek: Legacy,,X360,,missing_year,0.19
+7977,Magical Starsign,US sales,DS,2006.0,partial_region_sales_annotation,0.19
+8044,Trauma Team,,Wii,,missing_year,0.18
+8049,International Superstar Soccer 2000,JP weekly sales,N64,1999.0,partial_region_sales_annotation,0.18
+8086,Backbreaker,,X360,,missing_year,0.18
+8157,Twisted Metal: Small Brawl,,PS,,missing_year,0.18
+8167,Otomedius Excellent,,X360,,missing_year,0.18
+8173,SimCity Creator,JP sales,DS,2008.0,partial_region_sales_annotation,0.18
+8204,NBA Starting Five,,PS2,,missing_year,0.18
+8223,Teen Titans,,GBA,,missing_year,0.18
+8313,Backbreaker,,PS3,,missing_year,0.17
+8334,James Cameron's Dark Angel,,PS2,,missing_year,0.17
+8376,Sword of the Samurai,,PS2,,missing_year,0.17
+8405,Shin Megami Tensei: Devil Summoner 2 - Raidou Kuzunoha vs. King Abaddon,JP sales,PS2,2008.0,partial_region_sales_annotation,0.17
+8439,Splatterhouse,,PS3,,missing_year,0.17
+8553,Alone in the Dark: The New Nightmare,,PS,,missing_year,0.16
+8602,.hack//G.U. Vol.2//Reminisce,jp sales,PS2,2006.0,partial_region_sales_annotation,0.16
+8615,Rondo of Swords,US sales,DS,2007.0,partial_region_sales_annotation,0.16
+8620,Vegas Party,,Wii,,missing_year,0.16
+8707,Jurassic Park: The Game,,X360,,missing_year,0.16
+8739,Dragon Ball Z: Harukanaru Densetsu,JP sales,DS,2007.0,partial_region_sales_annotation,0.15
+8760,Home Run,,2600,,missing_year,0.15
+8899,eJay Clubworld,,PS2,,missing_year,0.15
+8929,All-Star Baseball 2005,,XB,,missing_year,0.15
+8944,Yu-Gi-Oh! Nightmare Troubadour,US sales,DS,2005.0,partial_region_sales_annotation,0.15
+9004,Lunar 2: Eternal Blue,"sales, but wrong system",GEN,1994.0,partial_region_sales_annotation,0.14
+9028,Super Robot Taisen OG Saga: Endless Frontier,JP sales,DS,2008.0,partial_region_sales_annotation,0.14
+9081,Our House Party!,,Wii,,missing_year,0.14
+9151,WCW Backstage Assault,,N64,,missing_year,0.14
+9171,Bejeweled 3,,PS3,,missing_year,0.14
+9228,Yu-Gi-Oh! Nightmare Troubadour,JP sales,DS,2005.0,partial_region_sales_annotation,0.14
+9232,Ape Escape Academy,jp sales,PSP,2004.0,partial_region_sales_annotation,0.13
+9251,Bejeweled 3,,X360,,missing_year,0.14
+9310,Disney's Cinderella: Magical Dreams,,GBA,,missing_year,0.14
+9392,Transworld Surf,,XB,,missing_year,0.13
+9454,Eternal Poison,JP sales,PS2,2008.0,partial_region_sales_annotation,0.13
+9475,Street Fighter IV,,PC,,missing_year,0.13
+9477,Harvest Moon DS,jp sales,DS,2005.0,partial_region_sales_annotation,0.13
+9522,Nintendo Puzzle Collection,,GC,,missing_year,0.13
+9667,Charm Girls Club: My Fashion Mall,,DS,,missing_year,0.13
+9692,WRC: FIA World Rally Championship,,X360,,missing_year,0.12
+9712,Wild ARMs 5,jp sales,PS2,2006.0,partial_region_sales_annotation,0.12
+9742,Record of Agarest War Zero,,PS3,,missing_year,0.13
+9749,Super Robot Wars OG Saga: Masou Kishin II - Revelation of Evil God,,PSP,,missing_year,0.12
+9769,Saru! Get You! Million Monkeys,,PS2,,missing_year,0.12
+9815,Street Hoops,,GC,,missing_year,0.11
+9820,Godzilla: Destroy All Monsters Melee,,XB,,missing_year,0.12
+9821,The Daring Game for Girls,,DS,,missing_year,0.12
+9840,Rocksmith,,PC,,missing_year,0.11
+9868,Major League Baseball 2K6,,PSP,,missing_year,0.12
+9981,Happy Feet Two,,DS,,missing_year,0.12
+10045,Star Trek: Conquest,,PS2,,missing_year,0.11
+10188,Brave Story: New Traveler,US sales,PSP,2006.0,partial_region_sales_annotation,0.11
+10205,Go! Sudoku,JP sales,PSP,2005.0,partial_region_sales_annotation,0.11
+10272,GiFTPiA,,GC,,missing_year,0.11
+10350,Mega Man Battle Network 5: Double Team DS,JP sales,DS,2005.0,partial_region_sales_annotation,0.11
+10362,Disney's Chicken Little: Ace In Action,,Wii,,missing_year,0.11
+10465,Happy Feet Two,,PS3,,missing_year,0.11
+10469,Mickey's Speedway USA,weekly JP sales,N64,2000.0,partial_region_sales_annotation,0.1
+10494,Atsumare! Power Pro Kun no DS Koushien,,DS,,missing_year,0.1
+10559,My Healthy Cooking Coach,,DS,,missing_year,0.1
+10637,International Superstar Soccer 64,weekly JP sales,N64,1997.0,partial_region_sales_annotation,0.1
+10664,Harvest Moon DS Cute,jp sales,DS,2005.0,partial_region_sales_annotation,0.1
+10665,Bleach: Dark Souls,JP sales,DS,2007.0,partial_region_sales_annotation,0.1
+10690,Happy Feet Two,,X360,,missing_year,0.1
+10739,Retro Game Challenge,US sales,DS,2007.0,partial_region_sales_annotation,0.1
+10758,Luminous Arc 2,JP sales,DS,,partial_region_sales_annotation,0.1
+10792,The Daring Game for Girls,,Wii,,missing_year,0.1
+10829,Egg Monster Hero,,DS,,missing_year,0.09
+10920,Puyo Pop Fever,JP sales,DS,2004.0,partial_region_sales_annotation,0.09
+10922,Yu-Gi-Oh! GX: The Beginning of Destiny,US sales,PS2,2007.0,partial_region_sales_annotation,0.1
+10936,Import Tuner Challenge,American sales,X360,2006.0,partial_region_sales_annotation,0.09
+10979,Samurai Shodown Anthology,,PSP,,missing_year,0.09
+10997,Demon Chaos,,PS2,,missing_year,0.09
+11076,Action Man-Operation Extreme,,PS,,missing_year,0.09
+11108,Super Puzzle Fighter II,,GBA,,missing_year,0.08
+11142,Happy Feet Two,,Wii,,missing_year,0.09
+11323,Charm Girls Club: My Fashion Show,,DS,,missing_year,0.09
+11331,Get Fit with Mel B,,X360,,missing_year,0.08
+11376,Face Racers: Photo Finish,,3DS,,missing_year,0.08
+11394,PoPoLoCrois,JP sales,PSP,2005.0,partial_region_sales_annotation,0.08
+11409,Zero: Tsukihami no Kamen,,Wii,,missing_year,0.08
+11420,Pro Evolution Soccer 2008,JP sales,DS,2007.0,partial_region_sales_annotation,0.08
+11455,The Hidden,,3DS,,missing_year,0.08
+11543,Rock Revolution,,Wii,,missing_year,0.08
+11573,Dead Island: Riptide,,PC,,missing_year,0.08
+11755,Mega Man Battle Network: Operation Shooting Star,,DS,,missing_year,0.07
+11798,Smashing Drive,,GC,,missing_year,0.07
+11853,River King: Mystic Valley,US sales,DS,2007.0,partial_region_sales_annotation,0.07
+11881,Mega Man Battle Network 5: Double Team DS,US sales,DS,2005.0,partial_region_sales_annotation,0.07
+11921,Dream Trigger 3D,,3DS,,missing_year,0.07
+11938,Tornado,,DS,,missing_year,0.07
+11976,McFarlane's Evil Prophecy,,PS2,,missing_year,0.07
+12010,Point Blank DS,JP sales,DS,2006.0,partial_region_sales_annotation,0.07
+12015,Drake of the 99 Dragons,,XB,,missing_year,0.06
+12028,Port Royale 3,,PS3,,missing_year,0.07
+12065,Street Fighter II': Special Champion Edition,JP weekly sales,GEN,1993.0,partial_region_sales_annotation,0.07
+12127,Build-A-Bear Workshop: Friendship Valley,,Wii,,missing_year,0.06
+12129,Alex Rider: Stormbreaker,,DS,,missing_year,0.06
+12135,Yoostar on MTV,,X360,,missing_year,0.06
+12184,Rayman Arena,,XB,,missing_year,0.06
+12212,National Geographic Challenge!,,X360,,missing_year,0.06
+12238,Port Royale 3,,X360,,missing_year,0.06
+12248,Jewel Link Chronicles: Mountains of Madness,,DS,,missing_year,0.07
+12297,Naruto: Ultimate Ninja Heroes,JP sales,PSP,2006.0,partial_region_sales_annotation,0.06
+12320,Fishing Master,jp sales,Wii,2007.0,partial_region_sales_annotation,0.06
+12487,Chou Soujuu Mecha MG,,DS,,missing_year,0.06
+12517,Prinny: Can I Really Be The Hero?,US sales,PSP,,partial_region_sales_annotation,0.06
+12531,Combat Elite: WWII Paratroopers,,PS2,,missing_year,0.06
+12565,World Soccer Winning Eleven 9,US sales,PSP,2005.0,partial_region_sales_annotation,0.05
+12617,Raw Danger!,JP sales,PS2,2006.0,partial_region_sales_annotation,0.06
+12626,Captain America: Super Soldier,,Wii,,missing_year,0.05
+12666,Flip's Twisted World,,Wii,,missing_year,0.05
+12709,Mobile Ops: The One Year War,,X360,,missing_year,0.06
+12737,Point Blank DS,US sales,DS,2006.0,partial_region_sales_annotation,0.05
+12749,Tom Clancy's Rainbow Six: Critical Hour,,XB,,missing_year,0.05
+12770,Dance Dance Revolution: Mario Mix,JP sales,GC,2005.0,partial_region_sales_annotation,0.05
+12807,GRID,,DS,,missing_year,0.05
+12825,Captain America: Super Soldier,,DS,,missing_year,0.05
+12879,Reader Rabbit 2nd Grade,,Wii,,missing_year,0.05
+12915,Mountain Bike Adrenaline,,PS2,,missing_year,0.06
+12922,Tour de France 2011,,X360,,missing_year,0.06
+12929,Drill Dozer,,GBA,,missing_year,0.05
+12951,Growlanser: Heritage of War,jp sales,PS2,2006.0,partial_region_sales_annotation,0.05
+13055,Battle vs. Chess,,PS3,,missing_year,0.05
+13102,Medal of Honor: European Assault,weekly JP sales,PS2,2005.0,partial_region_sales_annotation,0.05
+13156,The History Channel: Great Battles - Medieval,,PS3,,missing_year,0.05
+13165,Yu-Gi-Oh! GX: Spirit Caller,Japan Sales,DS,2006.0,partial_region_sales_annotation,0.05
+13261,Ultimate Ghosts 'n Goblins,JP sales,PSP,2006.0,partial_region_sales_annotation,0.05
+13278,Monster Hunter Frontier Online,,PS3,,missing_year,0.05
+13318,Naruto: Uzumaki Chronicles 2,JP sales,PS2,2006.0,partial_region_sales_annotation,0.05
+13409,Brave Story: New Traveller,jp sales,PSP,2006.0,partial_region_sales_annotation,0.05
+13455,National Geographic Panda,US sales,DS,2008.0,partial_region_sales_annotation,0.04
+13464,Mana Khemia: Alchemists of Al-Revis,JP sales,PS2,2007.0,partial_region_sales_annotation,0.04
+13477,RollerCoaster Tycoon,,PC,,missing_year,0.05
+13611,FIFA Soccer 2003,weekly jp sales,PS2,2002.0,partial_region_sales_annotation,0.04
+13665,GRID,,PC,,missing_year,0.04
+13672,B.L.U.E.: Legend of Water,,PS,,missing_year,0.04
+13675,Luxor: Pharaoh's Challenge,,Wii,,missing_year,0.04
+13733,NHL Hitz Pro,,GC,,missing_year,0.04
+13769,Atelier Iris 3: Grand Phantasm,JP Sales,PS2,2006.0,partial_region_sales_annotation,0.04
+13826,Draglade,JP sales,DS,2007.0,partial_region_sales_annotation,0.04
+13870,Sega Rally 2006,,PS2,,missing_year,0.04
+13895,R-Type Command,correct US sales,PSP,2007.0,partial_region_sales_annotation,0.04
+13898,Dynasty Warriors Vol. 2,JP sales,PSP,2006.0,partial_region_sales_annotation,0.04
+13947,Magical Starsign,JP sales,DS,2006.0,partial_region_sales_annotation,0.04
+13962,World of Tanks,,X360,,missing_year,0.03
+14009,Enchanted Arms,JP sales,PS3,2007.0,partial_region_sales_annotation,0.04
+14046,Swords,,Wii,,missing_year,0.03
+14055,Half-Minute Hero 2,,PSP,,missing_year,0.04
+14056,Clockwork Empires,,PC,,missing_year,0.03
+14070,"My World, My Way",US sales,DS,2008.0,partial_region_sales_annotation,0.04
+14081,Puyo Pop Fever,us sales,DS,2004.0,partial_region_sales_annotation,0.03
+14087,Housekeeping,,DS,,missing_year,0.04
+14098,Major League Baseball 2K8,,PSP,,missing_year,0.03
+14160,Sabre Wulf,,GBA,,missing_year,0.03
+14208,Super Dodgeball Brawlers,jp sales,DS,2008.0,partial_region_sales_annotation,0.03
+14213,Metal Gear Solid: The Essential Collection,JP sales,PS2,2007.0,partial_region_sales_annotation,0.03
+14247,Project Gotham Racing 2,JP weekly sales,XB,2003.0,partial_region_sales_annotation,0.03
+14269,River King: Mystic Valley,jp sales,DS,2007.0,partial_region_sales_annotation,0.03
+14273,Beyond the Labyrinth,,3DS,,missing_year,0.03
+14296,Bikkuriman Daijiten,,DS,,missing_year,0.03
+14312,Majesty 2: The Fantasy Kingdom Sim,,X360,,missing_year,0.03
+14339,My Pet Shop,JP sales,DS,2008.0,partial_region_sales_annotation,0.03
+14377,Fullmetal Alchemist: Brotherhood,,PSP,,missing_year,0.03
+14473,Combat Elite: WWII Paratroopers,,XB,,missing_year,0.03
+14489,Lux-Pain,JP sales,DS,2008.0,partial_region_sales_annotation,0.03
+14522,Samurai Spirits: Tenkaichi Kenkakuden,,PS2,,missing_year,0.03
+14583,Battle vs. Chess,,PC,,missing_year,0.03
+14676,Tom and Jerry in War of the Whiskers,,XB,,missing_year,0.03
+14696,Super Duper Sumos,,GBA,,missing_year,0.03
+14833,Pop Cutie! Street Fashion Simulation,JP sales,DS,2008.0,partial_region_sales_annotation,0.03
+14849,Legacy of Ys: Books I & II,,DS,,missing_year,0.02
+14855,The King of Fighters: Maximum Impact - Maniax,,XB,,missing_year,0.03
+14876,Combat Wings: The Great Battles of WWII,,Wii,,missing_year,0.02
+14925,Tube Slider,,GC,,missing_year,0.02
+14936,Battlefield 2: Modern Combat,JP sales,PS2,2005.0,partial_region_sales_annotation,0.02
+14942,Umineko no Naku Koro ni San: Shinjitsu to Gensou no Yasoukyoku,,PS3,,missing_year,0.02
+14950,Virtua Tennis: World Tour,jp sales,PSP,2005.0,partial_region_sales_annotation,0.02
+14997,Wii de Asobu: Metroid Prime,,Wii,,missing_year,0.02
+14998,Payout Poker & Casino,,PSP,,missing_year,0.02
+14999,Wii de Asobu: Metroid Prime,,Wii,,missing_year,0.02
+15097,Enchanted Arms,JP sales,X360,2006.0,partial_region_sales_annotation,0.02
+15113,Namco Museum Battle Collection,JP sales,PSP,2005.0,partial_region_sales_annotation,0.02
+15159,Warriors of the Lost Empire,JP sales,PSP,2007.0,partial_region_sales_annotation,0.02
+15197,Saint,,Wii,,missing_year,0.02
+15208,Steal Princess,,DS,,missing_year,0.02
+15261,Mario Tennis,,3DS,,missing_year,0.02
+15316,Runaway: A Twist of Fate,,DS,,missing_year,0.02
+15476,Yu-Gi-Oh! 5D's Wheelie Breakers,JP sales,Wii,,partial_region_sales_annotation,0.02
+15551,Yu-Gi-Oh! GX: The Beginning of Destiny,JP sales,PS2,2007.0,partial_region_sales_annotation,0.02
+15579,Cabela's Alaskan Adventure,,PS2,,missing_year,0.02
+15599,The King of Fighters Collection: The Orochi Saga,JP sales,PS2,2006.0,partial_region_sales_annotation,0.02
+15606,Writing and Speaking Beautiful Japanese DS,,DS,,missing_year,0.02
+15625,Touch Detective,JP sales,DS,2006.0,partial_region_sales_annotation,0.02
+15652,Virtua Quest,,PS2,,missing_year,0.02
+15697,Shonen Jump's Yu-Gi-Oh! GX Card Almanac,,DS,,missing_year,0.02
+15717,Without Warning,,XB,,missing_year,0.01
+15739,Football Manager 2007,,X360,,missing_year,0.01
+15783,Namco Museum 50th Anniversary,JP sales,PS2,2005.0,partial_region_sales_annotation,0.02
+15811,Ferrari: The Race Experience,,Wii,,missing_year,0.01
+15865,PDC World Championship Darts 2008,,DS,,missing_year,0.01
+15867,Strongest Tokyo University Shogi DS,,DS,1985.0,release_year_before_platform_existed,0.02
+15876,Dinotopia: The Sunstone Odyssey,,GC,,missing_year,0.01
+15878,Dance! It's Your Stage,,Wii,,missing_year,0.01
+15882,Earth Defense Force 2017,old JP sales,X360,2006.0,partial_region_sales_annotation,0.02
+15900,Jet Impulse,,DS,,missing_year,0.02
+15915,Dream Dancer,,DS,,missing_year,0.01
+15992,Bomberman,jp sales,PSP,2006.0,partial_region_sales_annotation,0.01
+16011,Tom Clancy's Ghost Recon Advanced Warfighter,weekly JP sales,X360,2006.0,partial_region_sales_annotation,0.01
+16023,Rengoku II: The Stairway to H.E.A.V.E.N.,jp sales,PSP,2006.0,partial_region_sales_annotation,0.01
+16054,Samurai Shodown Anthology,JP sales,PS2,2008.0,partial_region_sales_annotation,0.01
+16057,PDC World Championship Darts 2008,,PSP,,missing_year,0.01
+16058,WRC: FIA World Rally Championship,,PC,,missing_year,0.01
+16060,Pachi-Slot Teiou: Golgo 13 Las Vegas,"JP sales, but wrong system",PS2,2002.0,partial_region_sales_annotation,0.01
+16065,Aquaman: Battle for Atlantis,,XB,,missing_year,0.01
+16127,Madden NFL 13,,PS3,2012.0,conflicting_duplicate_key,0.01
+16151,SoulCalibur Legends,JP sales,Wii,2007.0,partial_region_sales_annotation,0.01
+16184,Fatal Fury: Battle Archives Volume 2,JP sales,PS2,2007.0,partial_region_sales_annotation,0.01
+16191,Homeworld Remastered Collection,,PC,,missing_year,0.01
+16194,Shorts,,DS,,missing_year,0.01
+16198,AKB1/48: Idol to Guam de Koishitara...,,X360,,missing_year,0.01
+16229,Brothers in Arms: Furious 4,,X360,,missing_year,0.01
+16246,Agarest Senki: Re-appearance,,PS3,,missing_year,0.01
+16280,Fatal Fury: Battle Archives Volume 1,JP sales,PS2,2006.0,partial_region_sales_annotation,0.01
+16307,Freaky Flyers,,GC,,missing_year,0.01
+16321,Jam Sessions: Sing and Play Guitar,jp sales,DS,2007.0,partial_region_sales_annotation,0.01
+16325,RalliSport Challenge,JP sales,XB,2002.0,partial_region_sales_annotation,0.01
+16327,Inversion,,PC,,missing_year,0.01
+16331,Rondo of Swords,jp sales,DS,2007.0,partial_region_sales_annotation,0.01
+16366,Hakuouki: Shinsengumi Kitan,,PS3,,missing_year,0.01
+16413,The Godfather,JP sales,X360,2006.0,partial_region_sales_annotation,0.01
+16427,Virtua Quest,,GC,,missing_year,0.01
+16465,Help Wanted: 50 Wacky Jobs,jp sales,Wii,2008.0,partial_region_sales_annotation,0.02
+16493,The Smurfs,,3DS,,missing_year,0.01
+16514,National Geographic Panda,JP sales,DS,2008.0,partial_region_sales_annotation,0.01
+16544,Imagine Figure Skater,JP sales,DS,2007.0,partial_region_sales_annotation,0.01
